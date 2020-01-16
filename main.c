@@ -1,4 +1,7 @@
-/*	Authors: Mohamed AKHOUZAM	*/
+/*	Authors: Mohamed AKHOUZAM	
+	Le snake de l'utilisateur ne peut bouger qu'avec les touche 1,2,3,4
+
+*/
 
 #include "clientAPI.h"
 #include <stdio.h>
